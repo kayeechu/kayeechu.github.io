@@ -6,7 +6,8 @@ permalink: /about/
 
 Hi!
 
-My name is Ka-Yee Chu, I'm a sixth year Computer Engineering student at UBC who actually just wants to teach.
+My name is Ka-Yee Chu, I'm currently on the JET Programme as an ALT with a background in Computer Engineering.
+In reality, I am trying to become a teacher!
 
 This section is going to be about me (as a person) and this website, so if you're interested in seeing my
 professional experience/cv, please visit **[here](/experience/)**.
