@@ -10,7 +10,7 @@ categories: teaching
 
 ### This is it.
 
-A serious air hangs in the school gymnasium - not a single sound can be heard.
+<!-- A serious air hangs in the school gymnasium - not a single sound can be heard.
 Anticipated eyes watch as our school principal steps onto the stage, bows, then begins
 the ceremony.
 
@@ -27,3 +27,4 @@ I think it's easy for teachers to become jaded and tired; I've definitely seen i
 Especially in recent times when it's common for apathy and disrespect to become the controllers of
 the classroom. Students giving nothing for school. No effort. Less smiles. Tired eyes. More distrust.
 
+Yet none of that seems to show on this day. It's meant to be a day of joy and excitement. -->
